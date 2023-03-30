@@ -13,3 +13,5 @@ ReactDOM.createRoot(document.getElementById("root") as HTMLElement).render(
     </ChakraProvider>
   </React.StrictMode>
 );
+
+//rawg.io API: 93b0cea1a83d47a4ba3399ca7838916c
